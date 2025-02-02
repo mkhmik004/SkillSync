@@ -1,0 +1,10 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+# IDE/editor folders
+.vscode/
+#MacOS files
+.DS_Store
+#experimental file
+try.py
+ssenv
