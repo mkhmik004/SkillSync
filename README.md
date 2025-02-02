@@ -88,6 +88,7 @@ Use `pyinstaller` to convert the Python application into an executable file for 
 
 ---
 ### Contributors
+-[Dimakatso Lebeya](https://github.com/Dimakatso-del)
 - [MarkBetterDev](https://github.com/mkhmik004)
 
 
